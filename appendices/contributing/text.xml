@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <guide self="appendices/contributing/">
 <chapter>
-<title>Contributing to This Document</title>
+<title>Contributing to this document</title>
 
 <body>
 <p>
@@ -70,7 +70,7 @@ top-level directory, which will validate all XML files using <c>xmllint</c>.
 </section>
 
 <section>
-<title>Quick Introduction to DevBook XML</title>
+<title>A quick introduction to DevBook XML</title>
 <body>
 
 <p>
@@ -124,7 +124,7 @@ amount of depth.
 </section>
 
 <section>
-<title>Style Guidelines</title>
+<title>Style guidelines</title>
 <body>
 
 <ul>
