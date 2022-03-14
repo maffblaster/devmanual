@@ -5,12 +5,12 @@
 <body>
 
 <p>
-This page lists the contributions to the Gentoo Development Guide:
+This page lists the contributions to the Gentoo development guide:
 </p>
 
 <authors>
 <author name="Ciaran McCreesh" email="ciaran.mccreesh@blueyonder.co.uk">
-  Main Content
+  Main content
 </author>
 <author name="Grant Goodyear" email="g2boojum@gentoo.org">
   <uri link="::tools-reference/cat/#Here Documents"/>
@@ -128,6 +128,9 @@ Misc
 <author name="Sam James" email="sam@gentoo.org">
   <uri link="::eclass-writing/"/>,
   <uri link="::keywording/"/>
+</author>
+<author name="Matthew Marchese" email="maffblaster@gentoo.org">
+  Sentence case and general editorial improvements.
 </author>
 </authors>
 
