@@ -54,7 +54,7 @@ up the tree too much.
 </body>
 
 <section>
-<title>Patch Descriptions</title>
+<title>Patch descriptions</title>
 <body>
 <p>
 It is possible to include a description with a patch. This is often
@@ -113,7 +113,7 @@ from the <c>vim</c> patch tarball:
 </section>
 
 <section>
-<title>Clean Patch Howto</title>
+<title>Clean patch howto</title>
 <body>
 
 <p>
@@ -140,7 +140,7 @@ assess a patch without searching through many other files.
 </subsection>
 
 <subsection>
-<title>File Naming</title>
+<title>File naming</title>
 <body>
 
 <p>
