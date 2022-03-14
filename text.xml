@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <guide root="true">
 <chapter>
-<title>Master Index</title>
+<title>Master index</title>
 
 <body>
 <p>
-This document is an ongoing work in progress. It contains gaps,
-inaccuracies, omissions, typos and the occasional outright lie. The
-intent is to make a handbook giving developers and users correct,
-detailed, up to date technical content.
+This document is an ongoing work-in-progress. It contains gaps,
+inaccuracies, omissions, typos, and the occasional outright lie. The
+intent is to create a handbook that provides Gentoo developers and
+users correct, detailed, up to date technical content.
 </p>
 
 <authors>
@@ -30,7 +30,7 @@ section lists specific contributions to this manual.
 </section>
 
 <section>
-<title>Full Contents</title>
+<title>Full contents</title>
 <body>
 <contentsTree/>
 </body>
