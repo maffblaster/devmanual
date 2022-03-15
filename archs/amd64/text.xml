@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <guide self="archs/amd64/">
 <chapter>
-<title>Arch Specific Notes — AMD64/EM64T</title>
+<title>Arch specific notes — AMD64/EM64T</title>
 
 <section>
-<title>Position Independent Code Issues</title>
+<title>Position Independent Code issues</title>
 <body>
 
 <p>
@@ -94,7 +94,7 @@ that's not the case, and so it's a bit more complicated.
 </body>
 
 <subsection>
-<title>Multilib-Toolchain</title>
+<title>Multilib-toolchain</title>
 
 <subsubsection>
 <title>GCC</title>
@@ -130,7 +130,7 @@ To understand how this is done in the ebuild, read
 </subsection>
 
 <subsection>
-<title>32bit compatibility</title>
+<title>32-bit compatibility</title>
 <body>
 
 <p>
@@ -209,7 +209,7 @@ the <c>ABI</c> variable.
 </subsection>
 
 <subsection>
-<title>The <c>multilib-strict</c> Feature</title>
+<title>The <c>multilib-strict</c> feature</title>
 <body>
 
 <p>
@@ -247,7 +247,7 @@ modifications!
 </subsection>
 
 <subsection>
-<title>Headers and Multilib</title>
+<title>Headers and multilib</title>
 <body>
 
 <p>
@@ -285,7 +285,7 @@ section.
 </subsection>
 
 <subsection>
-<title>The ABI Variable</title>
+<title>The ABI variable</title>
 <body>
 
 <p>
@@ -323,10 +323,10 @@ LIBDIR_x86="lib32"
 </section>
 
 <section>
-<title>Porting Notes</title>
+<title>Porting notes</title>
 
 <subsection>
-<title>Machine Word sizes</title>
+<title>Machine word sizes</title>
 <body>
 
 <p>
@@ -473,18 +473,18 @@ segmentation faults or strange behaviour. GCC 4.0 refuses to compile such code.
 </section>
 
 <section>
-<title>Other Resources</title>
+<title>Other resources</title>
 <body>
 
 <ul>
   <li>
-    <uri link="https://wiki.gentoo.org/wiki/Project:AMD64">Gentoo/AMD64 Project</uri>
+    <uri link="https://wiki.gentoo.org/wiki/Project:AMD64">Gentoo/AMD64 project</uri>
   </li>
   <li>
     <uri link="https://wiki.gentoo.org/wiki/AMD64/FAQ">Gentoo/Linux AMD64 FAQ</uri>
   </li>
   <li>
-    <uri link="https://forums.gentoo.org/viewforum-f-46.html">Gentoo on AMD64 Forum</uri>
+    <uri link="https://forums.gentoo.org/viewforum-f-46.html">Gentoo on AMD64 forum</uri>
   </li>
 </ul>
 

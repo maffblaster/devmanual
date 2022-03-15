@@ -115,7 +115,7 @@ Remember to add the patch to <c>SRC_URI</c>.
 </section>
 
 <section>
-<title>Multiple Patches with <c>epatch</c></title>
+<title>Multiple patches with <c>epatch</c></title>
 <body>
 
 <p>

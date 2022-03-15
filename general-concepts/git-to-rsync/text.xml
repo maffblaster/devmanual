@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <guide self="general-concepts/git-to-rsync/">
 <chapter>
-<title>Git to RSYNC</title>
+<title>Git to Rsync</title>
 
 <body>
 
@@ -29,8 +29,8 @@
   </li>
 </ul>
 
-<figure short="Git to RSYNC Propagation" link="diagram.png"
-  caption="Diagram showing Git to RSYNC Propagation" />
+<figure short="Git to Rsync propagation" link="diagram.png"
+  caption="Diagram showing Git to Rsync propagation" />
 
 <p>
   The <c>emerge-websync</c> snapshot is made daily from the staging box.

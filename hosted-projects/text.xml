@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <guide self="hosted-projects/">
 <chapter>
-<title>Hosted Projects</title>
+<title>Hosted projects</title>
 
 <body>
 <p>
@@ -11,7 +11,7 @@ prevent a repeat of the <c>genkernel</c> disaster.
 </body>
 
 <section>
-<title>Documentation Requirement</title>
+<title>Documentation requirement</title>
 <body>
 
 <p>

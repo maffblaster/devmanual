@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <guide self="appendices/devbook-guide/">
 <chapter>
-<title>Gentoo DevBook XML Guide</title>
+<title>Gentoo DevBook XML guide</title>
 
 <section>
 <title>DevBook XML design goals</title>
@@ -36,7 +36,7 @@ used in a DevBook XML document:
 &lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;guide self="appendices/devbook-guide/"&gt;
 &lt;chapter&gt;
-&lt;title&gt;Gentoo DevBook XML Guide&lt;/title&gt;
+&lt;title&gt;Gentoo DevBook XML guide&lt;/title&gt;
 </codesample>
 
 <p>
@@ -289,7 +289,7 @@ the following example:
 </p>
 
 <codesample lang="ebuild" numbering="lines">
-# Copyright 1999-2021 Gentoo Authors
+# Copyright 1999-2022 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
@@ -540,11 +540,11 @@ I could have written the two examples above in more compact form:
 </section>
 
 <section>
-<title>Coding Style</title>
+<title>Coding style</title>
 <body>
 
 <p>
-Since all Gentoo Documentation is a joint effort and several people will
+Since all Gentoo documentation is a joint effort and several people will
 most likely change existing documentation, a coding style is needed.
 A coding style contains two sections. The first one is regarding
 internal coding <d/> how the XML-tags are placed. The second one is
@@ -558,7 +558,7 @@ Both sections are described next.
 </body>
 
 <subsection>
-<title>Internal Coding Style</title>
+<title>Internal coding style</title>
 <body>
 
 <p>
@@ -656,7 +656,7 @@ fixed-width font.
 </body>
 </subsection>
 <subsection>
-<title>External Coding Style</title>
+<title>External coding style</title>
 <body>
 
 <p>
