@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <guide self="general-concepts/use-flags/">
 <chapter>
-<title>USE Flags</title>
+<title>USE flags</title>
 
 <body>
 <p>
@@ -120,7 +120,7 @@ preferred flags.
 </section>
 
 <section>
-<title><c>noblah</c> USE Flags</title>
+<title><c>noblah</c> USE flags</title>
 <body>
 <p>
 Avoid <c>noblah</c> style <c>USE</c> flags. These break <c>use.mask</c> and
@@ -236,7 +236,7 @@ IUSE="+bar foo"
 </section>
 
 <section>
-<title>Local and Global USE Flags</title>
+<title>Local and global USE flags</title>
 <body>
 
 <p>
@@ -268,7 +268,7 @@ gentoo-dev mailing list.
 </section>
 
 <section>
-<title>USE Flag Descriptions</title>
+<title>USE flag descriptions</title>
 <body>
 <p>
 All USE flags must be described in either <c>use.desc</c> in the
@@ -293,7 +293,7 @@ for the format, and remember to keep them sorted.
 </section>
 
 <section>
-<title>Conflicting USE Flags</title>
+<title>Conflicting USE flags</title>
 <body>
 <p>
 Occasionally, ebuilds will have conflicting USE flags for functionality.
@@ -350,7 +350,7 @@ needs.
 </section>
 
 <section>
-<title>USE_EXPAND and ARCH USE Flags</title>
+<title>USE_EXPAND and ARCH USE flags</title>
 <body>
 
 <p>
